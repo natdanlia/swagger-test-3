@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "swagger-ui-react": "^3.28.0"
+    "swagger-ui-react": "^3.52.5"
   },
   "scripts": {
     "start": "react-scripts start",
